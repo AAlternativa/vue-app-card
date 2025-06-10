@@ -3,6 +3,7 @@ const currentDate = new Date().toLocaleDateString()
 </script>
 
 <template>
+
   <div>{{ currentDate }}</div>
 </template>
 
