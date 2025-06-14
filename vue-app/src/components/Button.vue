@@ -26,8 +26,11 @@
     color: var(--primary);
     cursor: pointer;
     display: flex;
+    height: 53px;
+    width: 100%;
     gap: 9px;
     align-items: center;
+    justify-content: center;
 }
 
 .button:hover {
