@@ -4,6 +4,7 @@
   --color-bg: #343d4b;
   --color-bg-card: #272e37;
   --color-bg-main: #222831;
+  --color-text-placeholder: #3f4958;
 
   --gradient: linear-gradient(
     91deg,
@@ -18,6 +19,10 @@
   );
 
   --font: 'Montserrat', sans-serif;
+}
+
+* {
+  box-sizing: border-box;
 }
 
 body {
